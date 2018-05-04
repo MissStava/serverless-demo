@@ -1,0 +1,19 @@
+{
+  "name": "serverless-demo",
+  "version": "1.0.0",
+  "description": "Trying out a node serverless demo against aws",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nullMethod/serverless-demo.git"
+  },
+  "author": "Stu Hilton (null.method@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nullMethod/serverless-demo/issues"
+  },
+  "homepage": "https://github.com/nullMethod/serverless-demo#readme"
+}
