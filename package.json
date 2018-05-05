@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nullMethod/serverless-demo#readme",
   "dependencies": {
-    "mocha": "^5.1.1"
+    "mocha": "^5.1.1",
+    "serverless": "^1.27.1"
   }
 }
